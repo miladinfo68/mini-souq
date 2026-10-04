@@ -1,0 +1,19 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.import.maven.enabled": true,
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-25",
+      "path": "/usr/lib/jvm/java-25-openjdk-amd64",
+      "default": true
+    }
+  ],
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true
+}
+
+
+// {
+//     "xml.downloadExternalResources.enabled": true
+// }
